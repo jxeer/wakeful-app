@@ -11,7 +11,7 @@ function App() {
         <nav>
         <img src="/images/logo.png"></img>
               <li>
-                <a href="#">COMMUNITY</a> 
+                <a href="#">COMMUNITY</a>
                 <a href="#">CLASSES</a>
                 <a href="#">WHO WE ARE</a>
                 <a href="#">BLOG</a>
@@ -27,12 +27,13 @@ function App() {
           <main>
             <div class="modalities">
                 Featured Modalities
+                MEDITATION
             </div>
             <div class="teachers">
               Featured Teachers
             </div>
             <div class="practicioners">
-              Featured Practicioners 
+              Featured Practicioners
             </div>
           </main>
           <br />
