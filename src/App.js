@@ -28,6 +28,9 @@ function App() {
             <div class="modalities">
                 Featured Modalities
                 <br />
+                <h2 id="meditation">
+                MEDITATION
+                </h2>
                 <img src="/images/meditation.jpg"></img>
                 <br />
             </div>
