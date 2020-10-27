@@ -1,4 +1,4 @@
-# Wakeful-app
+# Wakeful
 
 Wakeful is a different kind of tech. Instead of distraction and dissatisfaction, we want something to inspire focus, relaxation and accomplishment.
 
