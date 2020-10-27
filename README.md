@@ -10,7 +10,7 @@ We believe this is how the next shift will happen...
 
 ---------------------------------------
 
-## This project was built with React JS
+## This project was built with React ⚛ !
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
