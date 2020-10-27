@@ -27,7 +27,9 @@ function App() {
           <main>
             <div class="modalities">
                 Featured Modalities
-                MEDITATION
+                <br />
+                <img src="/images/meditation.jpg"></img>
+                <br />
             </div>
             <div class="teachers">
               Featured Teachers
