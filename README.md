@@ -9,10 +9,8 @@ To make a living and live our purpose at the same time. In order to do this weâ€
 We believe this is how the next shift will happen...
 
 ---------------------------------------
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-## Learn More
+## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
