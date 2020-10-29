@@ -24,9 +24,39 @@ a {
   text-decoration: none;
 }
 
+.learnmore {
+  text-align:center;
+  background-color: #fdf5e7;
+  padding: 80px;
+  text-decoration: none;
+
+}
+
+.learnmore a {
+  color: black;
+  font-weight: bold;
+}
+
 .modalities {
   text-align: center;
 }
+
+/* .modalities h2 {
+  display: flex 1 1 auto;
+}
+
+.modalities p {
+  display: inline;
+}
+
+.modalities img {
+display: flex;
+margin: 20px 30px 0 0;
+object-fit: contain;
+align-self: flex-start;
+width: 28%;
+
+} */
 
 .teachers {
   text-align: center;
@@ -39,5 +69,5 @@ a {
 
 footer {
   text-align: left;
-  background-color: #f3f6f6;
+  background-color: #fdf5e7;
 }
