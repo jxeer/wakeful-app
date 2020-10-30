@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import logo from './logo.svg';
 import './App.css';
 
 
@@ -9,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <nav>
-        <img src="/images/logo.png"></img>
+        <img src="/images/logo.png" alt=""></img>
               <li>
                 <a href="#">COMMUNITY</a>
                 <a href="#">CLASSES</a>
@@ -32,7 +31,7 @@ function App() {
             <div class="modalities">
                 <br />
                 <div class="container-1">
-                  <img id="meditationImg" src="/images/meditation.jpg"></img>
+                  <img id="meditationImg" src="/images/meditation.jpg" alt=""></img>
                   <br />
                   <div class="container-1.5">
                   <h4 id="meditationTitle">
@@ -49,8 +48,8 @@ function App() {
             </div>
             <h3>Featured Instructors</h3>
             <div class="container-2">
-              <img src="/images/grey.png"></img>
-              <img src="/images/grey.png"></img>
+              <img src="/images/grey.png" alt=""></img>
+              <img src="/images/grey.png" alt=""></img>
             </div>
           </main>
           <br />
