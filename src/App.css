@@ -24,10 +24,18 @@ a {
   text-decoration: none;
 }
 
+h3 {
+  color: #566573;
+}
+
+h2 {
+  color: #566573;
+}
+
 .learnmore {
-  text-align:center;
   background-color: #fdf5e7;
   padding: 80px;
+  text-align:center;
   text-decoration: none;
 
 }
@@ -39,6 +47,49 @@ a {
 
 .modalities {
   text-align: center;
+}
+
+.container-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+.container-1.5 {
+  align-items: center;
+  padding: 20px;
+}
+
+#meditationBlurb a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+#meditationImg {
+  width: 55%;
+}
+
+#meditationTitle {
+  color: #566573;
+  margin: 40px;
+
+}
+
+#meditationSubTitle {
+  margin: 40px;
+  color: #566573;
+}
+
+#meditationBlurb {
+  /* padding: 30px; */
+  color: #566573;
+  margin: 40px;
+  text-align:center;
+  font-style: italic;
 }
 
 /* .modalities h2 {
@@ -58,13 +109,23 @@ width: 28%;
 
 } */
 
-.teachers {
-  text-align: center;
 
+h3 {
+  text-align: center;
+  align-items: center;
 }
 
-.practicioners {
+.container-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
   text-align: center;
+  justify-content: center;
+}
+
+.container-2 img {
+  width: 25%;
+  margin: 20px;
 }
 
 footer {
