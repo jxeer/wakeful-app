@@ -3,16 +3,16 @@ body {
 }
 
 nav a {
-  padding: 10px;
-  font-size: 15px;
-  float: right;
-  font-weight: medium-500;
   color: black;
+  float: right;
+  font-size: 15px;
+  font-weight: medium-500;
+  padding: 10px;
 }
 
 nav a:hover {
-  font-size: 18px;
   font-family: 'Poppins', sans-serif;
+  font-size: 18px;
   text-decoration: underline;
 }
 
@@ -25,7 +25,9 @@ a {
 }
 
 h3 {
+  align-items: center;
   color: #566573;
+  text-align: center;
 }
 
 h2 {
@@ -37,7 +39,6 @@ h2 {
   padding: 80px;
   text-align:center;
   text-decoration: none;
-
 }
 
 .learnmore a {
@@ -64,9 +65,9 @@ h2 {
 }
 
 #meditationBlurb a {
-  text-decoration: none;
   color: black;
   font-weight: bold;
+  text-decoration: none;
 }
 
 #meditationImg {
@@ -80,55 +81,31 @@ h2 {
 }
 
 #meditationSubTitle {
-  margin: 40px;
   color: #566573;
+  margin: 40px;
 }
 
 #meditationBlurb {
-  /* padding: 30px; */
   color: #566573;
+  font-style: italic;
   margin: 40px;
   text-align:center;
-  font-style: italic;
-}
-
-/* .modalities h2 {
-  display: flex 1 1 auto;
-}
-
-.modalities p {
-  display: inline;
-}
-
-.modalities img {
-display: flex;
-margin: 20px 30px 0 0;
-object-fit: contain;
-align-self: flex-start;
-width: 28%;
-
-} */
-
-
-h3 {
-  text-align: center;
-  align-items: center;
 }
 
 .container-2 {
   align-items: center;
   display: flex;
   flex-direction: row;
-  text-align: center;
   justify-content: center;
+  text-align: center;
 }
 
 .container-2 img {
-  width: 25%;
   margin: 20px;
+  width: 25%;
 }
 
 footer {
-  text-align: left;
   background-color: #fdf5e7;
+  text-align: left;
 }

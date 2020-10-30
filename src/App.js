@@ -29,7 +29,6 @@ function App() {
             <h1> Join a growing community of teachers, practicioners and creatives. </h1>
             <a href="#">Learn More</a>
            </div>
-           <h3>Featured Modalities</h3>
             <div class="modalities">
                 <br />
                 <div class="container-1">
