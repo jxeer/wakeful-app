@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import logo from './logo.svg';
 import './App.css';
 
 
@@ -55,10 +56,25 @@ function App() {
           <br />
           <br />
           <footer>
-            Join newsletter <br />
-            links <br />
-            Social media <br />
-            Copyright <br />
+            <h2>Get updates about new workshops, instructors and events.</h2><br />
+            <input type="text" id="email" name="email"></input>
+            <div class="footer-links">
+             <div class="fcolumn1">
+              <ul>ABOUT US</ul>
+              <ul>FAQ</ul>
+              <ul>PRESS</ul>
+            </div>
+            <div class="fcolumn2">
+              <ul>CONTACT</ul>
+              <ul>PRIVACY POLICY</ul>
+              <ul>TERMS & CONDITIONS</ul>
+              </div>
+            <div class="fcolumn3">
+              <ul>Connect With Us</ul>
+              <ul>Social media buttons</ul>
+            </div>
+          </div>
+          <p class="copyright">Copyright (c)</p>
           </footer>
     </div>
   );

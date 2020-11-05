@@ -77,7 +77,6 @@ h2 {
 #meditationTitle {
   color: #566573;
   margin: 40px;
-
 }
 
 #meditationSubTitle {
@@ -107,5 +106,15 @@ h2 {
 
 footer {
   background-color: #fdf5e7;
-  text-align: left;
+
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.copyright {
+  text-align: center;
 }
