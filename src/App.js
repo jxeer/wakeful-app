@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import logo from './logo.svg';
 import './App.css';
 
 
@@ -25,16 +24,16 @@ function App() {
           <br />
           <br />
           <main>
-           <div class="learnmore">
+           <div className="learnmore">
             <h1> Join a growing community of teachers, practicioners and creatives. </h1>
             <a href="#">Learn More</a>
            </div>
-            <div class="modalities">
+            <div className="modalities">
                 <br />
-                <div class="container-1">
+                <div className ="container-1">
                   <img id="meditationImg" src="/images/meditation.jpg" alt=""></img>
                   <br />
-                  <div class="container-1.5">
+                  <div className ="container-1.5">
                   <h4 id="meditationTitle">
                   M E D I T A T I O N
                   </h4>
@@ -48,7 +47,7 @@ function App() {
                 </div>
             </div>
             <h3>Featured Instructors</h3>
-            <div class="container-2">
+            <div className ="container-2">
               <img src="/images/grey.png" alt=""></img>
               <img src="/images/grey.png" alt=""></img>
             </div>
@@ -58,23 +57,23 @@ function App() {
           <footer>
             <h2>Get updates about new workshops, instructors and events.</h2><br />
             <input type="text" id="email" name="email"></input>
-            <div class="footer-links">
-             <div class="fcolumn1">
+            <div className="footer-links">
+             <div className="fcolumn1">
               <ul>ABOUT US</ul>
               <ul>FAQ</ul>
               <ul>PRESS</ul>
             </div>
-            <div class="fcolumn2">
+            <div className="fcolumn2">
               <ul>CONTACT</ul>
               <ul>PRIVACY POLICY</ul>
               <ul>TERMS & CONDITIONS</ul>
               </div>
-            <div class="fcolumn3">
+            <div className="fcolumn3">
               <ul>Connect With Us</ul>
               <ul>Social media buttons</ul>
             </div>
           </div>
-          <p class="copyright">Copyright (c)</p>
+          <p className="copyright">Copyright (c)</p>
           </footer>
     </div>
   );
